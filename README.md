@@ -1,0 +1,44 @@
+# Joji – LOVE YOU LESS
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Ooh-ooh
+Ooh-ooh
+Keep getting much of you
+When I give you the best of me
+Maybe my love is just too much
+Can't get enough of you, no, no
+But you won't set me free
+You want me the more I don't show up
+When I'm ready, you're not ready
+Tryna carry this love
+And it's heavy, yeah
+I'm obsessed, you're not sure
+If I love you less, will you love me more?
+I go back, you come forth
+If I love you less, will you love me more?
+Ooh-ooh
+Ooh-ooh
+Wasting my breath, 'cause you like it better whе
+n there's none lеft
+When I'm not in your bed, only time you want me
+there
+But I want you so bad, gonna give everything
+that I have
+This is how you should hold me up
+I'm obsessed, you're not sure
+If I love you less, will you love me more?
+I go back, you come forth
+If I love you less, will you love me more?
+Ooh-ooh
+Ooh-ooh
+When I'm ready, you're not ready
+Tryna carry this love
+And it's heavy, yeah
+Ooh-ooh
+Ooh-ooh
+(If I love you less, will you love me more?)
+Ooh-ooh
+(If I love you less, will you love me more?)
+```
