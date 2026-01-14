@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "LOVE YOU LESS",
+  "base_artist": "Joji",
+  "createdAt": "2026-01-14T02:49:15.409930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less and Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/01_Everyday_I_Love_You_Less_and_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love You Less",
+      "artist": "Veruca Salt",
+      "has_synced": true,
+      "path": "select/02_Love_You_Less_Veruca_Salt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less & Les",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/03_Everyday_I_Love_You_Less_&_Les_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less and Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/04_Everyday_I_Love_You_Less_and_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love You Less",
+      "artist": "Tina Arena",
+      "has_synced": false,
+      "path": "select/05_Love_You_Less_Tina_Arena.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less and Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/06_Everyday_I_Love_You_Less_and_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love You Less",
+      "artist": "Emma Elisabeth",
+      "has_synced": false,
+      "path": "select/07_Love_You_Less_Emma_Elisabeth.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Every day I love you less and less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/08_Every_day_I_love_you_less_and_less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less And Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/09_Everyday_I_Love_You_Less_And_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/10_Everyday_I_Love_You_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love You Less",
+      "artist": "Kevin Garrett",
+      "has_synced": true,
+      "path": "select/11_Love_You_Less_Kevin_Garrett.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Love to Love You Less",
+      "artist": "Nikka Costa",
+      "has_synced": true,
+      "path": "select/12_Love_to_Love_You_Less_Nikka_Costa.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less and Less (Boys Noize Mix)",
+      "artist": "Kaiser Chiefs",
+      "has_synced": false,
+      "path": "select/13_Everyday_I_Love_You_Less_and_Less_(Boys_Noize_Mix)_Kaiser_Chiefs.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less and Less (Boys Noize remix)",
+      "artist": "Kaiser Chiefs",
+      "has_synced": false,
+      "path": "select/14_Everyday_I_Love_You_Less_and_Less_(Boys_Noize_remix)_Kaiser_Chiefs.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everyday I Love You Less & Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/15_Everyday_I_Love_You_Less_&_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Kaiser Chiefs - Everyday I Love You Less and Less",
+      "artist": "Kaiser Chiefs",
+      "has_synced": true,
+      "path": "select/16_Kaiser_Chiefs_-_Everyday_I_Love_You_Less_and_Less_Kaiser_Chiefs.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE YOU LESS",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_YOU_LESS_Joji.txt"
+    }
+  ]
+}
